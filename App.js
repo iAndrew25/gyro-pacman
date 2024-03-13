@@ -9,9 +9,6 @@ const sensibility = 20;
 const opacityOffset = 40;
 const scaleOffset = 50;
 
-const stages = 3;
-const colsCount = 15;
-
 const dotsDistance = 10;
 const dotSize = 30;
 const generatedDotsCols = [1,1,1,1,1,3,3,3,3,3,5,5,5,5,5,3,3,3,3,3,1,1,1,1,1];
